@@ -1,4 +1,4 @@
-# Design Patterns Exercises
+# Design Patterns Exercises - Extended Overview
 
 This document provides a detailed description of additional exercises involving different design patterns and their practical implementations.
 
